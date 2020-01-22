@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="emp_table" max_length="40" name="x_429306_my_poc_emp_table" type="collection">
+        <element label="Address" max_length="25" name="address" type="string"/>
         <element label="Age" mandatory="true" max_length="40" name="ageage" type="string"/>
         <element label="Currentemployee" max_length="40" name="currentemployee" type="boolean"/>
         <element label="empID" max_length="40" name="empid" type="integer"/>
