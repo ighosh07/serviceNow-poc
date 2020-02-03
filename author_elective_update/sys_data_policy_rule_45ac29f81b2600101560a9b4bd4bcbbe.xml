@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>employeename</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 09:25:32</sys_created_on>
+        <sys_data_policy display_value="Sets the employeeName field to mandatory">05ac29f81b2600101560a9b4bd4bcbbc</sys_data_policy>
+        <sys_id>45ac29f81b2600101560a9b4bd4bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>employeename</sys_name>
+        <sys_package display_value="my-poc" source="x_429306_my_poc">422ce9b81b2600101560a9b4bd4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my-poc">422ce9b81b2600101560a9b4bd4bcbf5</sys_scope>
+        <sys_update_name>sys_data_policy_rule_45ac29f81b2600101560a9b4bd4bcbbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-22 09:25:32</sys_updated_on>
+        <table>x_429306_my_poc_emp_table</table>
+    </sys_data_policy_rule>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="my-poc">422ce9b81b2600101560a9b4bd4bcbf5</application>
+        <file_path/>
+        <instance_id>8dc40934db0cc0500b9d21c4059619c3</instance_id>
+        <instance_name>dev93518</instance_name>
+        <name>sys_data_policy_rule_45ac29f81b2600101560a9b4bd4bcbbe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>employeename</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 09:25:32</sys_created_on>
+        <sys_data_policy display_value="Sets the employeeName field to mandatory">05ac29f81b2600101560a9b4bd4bcbbc</sys_data_policy>
+        <sys_id>45ac29f81b2600101560a9b4bd4bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>employeename</sys_name>
+        <sys_package display_value="my-poc" source="x_429306_my_poc">422ce9b81b2600101560a9b4bd4bcbf5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my-poc">422ce9b81b2600101560a9b4bd4bcbf5</sys_scope>
+        <sys_update_name>sys_data_policy_rule_45ac29f81b2600101560a9b4bd4bcbbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-22 09:25:32</sys_updated_on>
+        <table>x_429306_my_poc_emp_table</table>
+    </sys_data_policy_rule>
+</record_update>]]></payload>
+        <payload_hash>370053179</payload_hash>
+        <record_name>employeename</record_name>
+        <reverted_from/>
+        <source>306d217c1b2600101560a9b4bd4bcb14</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 09:28:49</sys_created_on>
+        <sys_id>416d217c1b2600101560a9b4bd4bcb65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fcc9539160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-22 09:28:49</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>cd6d217c50260010e8d264faa1678764</update_guid>
+        <update_guid_history>cd6d217c50260010e8d264faa1678764:0,c5ac29f805260010f29e4a037a5b2abf:-1918967763</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 10:54:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>01feb3fab2394c5085bc00878e208100</sys_id>
+        <sys_metadata>45ac29f81b2600101560a9b4bd4bcbbe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>employeename</sys_name>
+        <sys_package display_value="my-poc" source="x_429306_my_poc">422ce9b81b2600101560a9b4bd4bcbf5</sys_package>
+        <sys_parent display_value="Sets the employeeName field to mandatory">05ac29f81b2600101560a9b4bd4bcbbc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="my-poc">422ce9b81b2600101560a9b4bd4bcbf5</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_data_policy_rule_45ac29f81b2600101560a9b4bd4bcbbe</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_45ac29f81b2600101560a9b4bd4bcbbe">416d217c1b2600101560a9b4bd4bcb65</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 10:54:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
